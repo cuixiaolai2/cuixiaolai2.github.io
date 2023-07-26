@@ -104,6 +104,6 @@ theme: acorn
 deploy:
   type: git
   repo: https://github.com/cuixiaolai2/cuixiaolai2.github.io
-  branch: gh-pages
+  branch: main
   name: cuixiaolai2
   email: cuixiaolai2@gmail.com
