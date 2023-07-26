@@ -1,0 +1,20 @@
+[
+  {
+    "cover":"/images/culture/icon_1.svg",
+    "name":"经营理念",
+    "description":"以市场为导向，以客户为中心，提供适合的行业产品与解决方案。",
+    "cover_size": 64
+  },
+  {
+    "cover":"/images/culture/icon_2.svg",
+    "name":"服务宗旨",
+    "description":"诚信与专注、承诺与服务，与客户互换角度多做一点。",
+    "cover_size": 64
+  },
+  {
+    "cover":"/images/culture/icon_1.svg",
+    "name":"管理理念",
+    "description":"简单与进取，效率与质量，着力于长远的精诚合作。",
+    "cover_size": 64
+  }
+]
