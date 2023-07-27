@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 贵州世纪博文科技有限公司
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: 
 language: en
 timezone: ''
 
@@ -103,7 +103,7 @@ theme: acorn
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/cuixiaolai2/cuixiaolai2.github.io
+  repo: git@cuixiaolai2_github.com:cuixiaolai2/cuixiaolai2.github.io.git
   branch: gh-pages
-  name: cuixiaolai2
-  email: cuixiaolai2@gmail.com
+  # name: cuixiaolai2
+  # email: cuixiaolai2@gmail.com
