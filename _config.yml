@@ -103,7 +103,7 @@ theme: acorn
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@cuixiaolai2.github.com:cuixiaolai2/cuixiaolai2.github.io.git
+  repo: git@github.com:cuixiaolai2/cuixiaolai2.github.io.git
   branch: gh-pages
   # name: cuixiaolai2
   # email: cuixiaolai2@gmail.com
