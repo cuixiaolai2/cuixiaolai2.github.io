@@ -1,3 +1,3 @@
 [submodule "themes/acorn"]
 	path = themes/acorn
-	url = https://github.com/zhwangart/hexo-theme-acorn.git
+	url = git@github.com:cuixiaolai2/hexo-theme-acorn.git
